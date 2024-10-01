@@ -24,7 +24,6 @@ The basic requirements for the implementation of this project were:
  * Web Portal
 
 ## Architecture
-
 ![Architecture](https://i.imgur.com/JzFFOet.png)
 
 ## Server
@@ -55,7 +54,6 @@ The basic requirements for the implementation of this project were:
     If the client wants to see statistics about a certain road the server doesn't have it stored as it is,he receives the request does some work (aggregations,time conditions,week days...) and based on that he send the response back to the client.
     The same logic applies to the other requests, we initially receive raw data, we handle it, we save it in a certan way and when requested for it we have processes that send an answer that suits what the client is asking for.
     If the client , or even a faulty sensor,for some reason ends up sending a bad request or data that doesn't fit the system we handle it appropriately and send a request that let's them know what the internal error was.
-
 
 ### How the database is modeled
 ```mermaid
@@ -113,7 +111,6 @@ B -- Connects --> B
 
 (1) -> [Konva.js](https://konvajs.org/) 
     
-
 Keypoints for implementation:
  * Dynamic map creation using an algorithm
  * Real time map view
@@ -160,7 +157,6 @@ In the administration page we are able to create a new street, if it passes all 
 **Usage**  ​
 >python3 doEverything.py fileContainingStreets CityName  
 ​
-
     Will send the server the information required to create a city as well as processing the returning data in the desired way. The result, a file named CityName.txt wich would be fed to the sensors script (this file contains the connections of every section to facilitate consistency).  
     ​
 #### File Send.py
@@ -168,7 +164,6 @@ There are two ways of running send:
 
 * Normal distribution across all streets with routing enabled (1)
 * Start the population of a street - Insertion of 20 to 70 cars per street (2)
-
 
 ​**USAGE**
 >python3 send.py ConnectionsFile(retured by doEverything.py) (1)
@@ -185,20 +180,16 @@ In total,we have 5 different sensors,each one with different responsibilities:
 - Road blocked -> Adds and removes roadblocks (anything that impedes traffic)
 - Accident Location -> Adds and/or removes accidents from a section, adds the specific coordinates in a given section
 - Visibility -> Alters the visibility of the some sections, being it that less visibility makes it harder to drive
-​
 
     As said before, these messages are stored in 2 RabbitMQ queues (Car movements gets a queue of his own due to high loads of data generation,this is done in order to unsynchronization issues in the other messages).  
     Without getting in unecessary details, this script uses one of the API GET methods to have an idea of the internal state of the data in the DataBase, and then, from there continuosly generates messages to get the simulation running.  
     Note, that the information about cars and sections is only asked once, and from there the script keeps a representation of the data so that the server doesn't need to perform unecessary work, this is because of how these setups/sensors would behave in the real world as mentioned above.  
-    All the other messages are not very costly so before creating them the server gives information about police locations, etc.
-    ​
+    All the other messages are not very costly so before creating them the server gives information about police locations, etc.​
 
 The messages are json Objects, for example:
 ​
 - {"type": "insert", "id" : 5, "plate":AL16PO, "city": "Ilhavo"}
 - {"type":"visibility", "id":6, "visibility": 50, "city":"Ilhavo"}
-​
-
 ​
 #### File Receive.py
 ​
