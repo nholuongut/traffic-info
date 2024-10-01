@@ -14,12 +14,6 @@ Traffic Jammer is a web application that allows you to view traffic close to you
 * Track specific cars in a given city.
 * Beautiful and easily usable interface both for clients and administration.
 
-## Users stories that lead to the development of this project
-* John is a university student residing in Ilhavo currently studying in Aveiro. Before leaving home he wants to know what road to take and to that he needs to know what roads are blocked today, if there are  any accidents in his usual route, how is the transit in the roads leading to his university. He needs all this information so that he may be aware of  the time he will take to reach class and what path to take to be more effecient.
-
-* Barbara is a office worker for Esgueira Town Hall. She was assigned the job of understanding what are the critical streets in her city in order to try and approve changes that will fix these situations. She wants to have statistical data from years back to the current days , and to be able to handle this data in different ways, for example to check if the accidents happen every day or if they happen more on Mondays and Fridays or if a street was having a lot of road blocks something is not working properly and should have been fixed in a single roadblock and not over many roadblocks.
-
-
 ## Requirements
 The basic requirements for the implementation of this project were:
  * Distributed generation of data stream
