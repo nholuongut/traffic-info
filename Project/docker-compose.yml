@@ -1,0 +1,11 @@
+version: '3.3'
+
+services:
+  backend:
+    build: Backend
+    ports:
+      - "8000:8000"
+  frontend:
+    build: Frontend/Mapper/
+    ports:
+      - "8800:80"

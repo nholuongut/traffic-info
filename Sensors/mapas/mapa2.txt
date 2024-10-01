@@ -1,0 +1,145 @@
+[
+    {
+        "name": "Rua Joao da Silva Correia",
+        "beginning_coords": [
+            0,
+            0
+        ],
+        "ending_coords": [
+            0,
+            500
+        ]
+    },
+    {
+        "name": "Rua Joao das Regras",
+        "beginning_coords": [
+            0,
+            1500
+        ],
+        "ending_coords": [
+            0,
+            2000
+        ]
+    },
+    {
+        "name": "Rua Joao de Deus",
+        "beginning_coords": [
+            500,
+            0
+        ],
+        "ending_coords": [
+            500,
+            2000
+        ]
+    },
+    {
+        "name": "Rua Jornal O Regional",
+        "beginning_coords": [
+            1000,
+            0
+        ],
+        "ending_coords": [
+            1000,
+            2000
+        ]
+    },
+    {
+        "name": "Rua Jose Moreira",
+        "beginning_coords": [
+            2000,
+            500
+        ],
+        "ending_coords": [
+            2000,
+            1500
+        ]
+    },
+    {
+        "name": "Rua Jose Regio",
+        "beginning_coords": [
+            0,
+            0
+        ],
+        "ending_coords": [
+            2000,
+            0
+        ]
+    },
+    {
+        "name": "Rua Jose Soares da Silva",
+        "beginning_coords": [
+            0,
+            500
+        ],
+        "ending_coords": [
+            2000,
+            500
+        ]
+    },
+    {
+        "name": "Rua Luis de Camoes",
+        "beginning_coords": [
+            1500,
+            1000
+        ],
+        "ending_coords": [
+            2000,
+            1000
+        ]
+    },
+    {
+        "name": "Zona Residencial da Patela",
+        "beginning_coords": [
+            500,
+            2000
+        ],
+        "ending_coords": [
+            1500,
+            1000
+        ]
+    },
+    {
+        "name": "Rua Luis de Camoes",
+        "beginning_coords": [
+            0,
+            1500
+        ],
+        "ending_coords": [
+            500,
+            1500
+        ]
+    },
+    {
+        "name": "Rua Maestro Rui Ferrao",
+        "beginning_coords": [
+            0,
+            2000
+        ],
+        "ending_coords": [
+            1000,
+            2000
+        ]
+    },
+    {
+        "name": "Rua Manuel Luis da Costa",
+        "beginning_coords": [
+            1000,
+            1000
+        ],
+        "ending_coords": [
+            2000,
+            0
+        ]
+    },
+    {
+        "name": "Rua Manuel Luis Leite Junior",
+        "beginning_coords": [
+            1000,
+            2000
+        ],
+        "ending_coords": [
+            2000,
+            1500
+        ]
+    }
+]

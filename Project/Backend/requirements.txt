@@ -1,0 +1,7 @@
+Django>=2.2
+<<<<<<< HEAD
+djangorestframework
+pika
+django-cors-headers
+=======
+>>>>>>> origin/feature/data_generation

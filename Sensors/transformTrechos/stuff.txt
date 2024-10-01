@@ -1,0 +1,1736 @@
+[
+    {
+        "id": 5,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 0,
+        "beginning_coords_y": 0,
+        "ending_coords_x": 400,
+        "ending_coords_y": 0,
+        "street": {
+            "name": "Travessa das Leirinhas",
+            "id": 2
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 6,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 400,
+        "beginning_coords_y": 0,
+        "ending_coords_x": 0,
+        "ending_coords_y": 0,
+        "street": {
+            "name": "Travessa das Leirinhas",
+            "id": 2
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 7,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 400,
+        "beginning_coords_y": 0,
+        "ending_coords_x": 800,
+        "ending_coords_y": 0,
+        "street": {
+            "name": "Travessa das Leirinhas",
+            "id": 2
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 8,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 800,
+        "beginning_coords_y": 0,
+        "ending_coords_x": 400,
+        "ending_coords_y": 0,
+        "street": {
+            "name": "Travessa das Leirinhas",
+            "id": 2
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 9,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 800,
+        "beginning_coords_y": 0,
+        "ending_coords_x": 1200,
+        "ending_coords_y": 0,
+        "street": {
+            "name": "Travessa das Leirinhas",
+            "id": 2
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 10,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 1200,
+        "beginning_coords_y": 0,
+        "ending_coords_x": 800,
+        "ending_coords_y": 0,
+        "street": {
+            "name": "Travessa das Leirinhas",
+            "id": 2
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 11,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 1200,
+        "beginning_coords_y": 0,
+        "ending_coords_x": 1600,
+        "ending_coords_y": 0,
+        "street": {
+            "name": "Travessa das Leirinhas",
+            "id": 2
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 12,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 1600,
+        "beginning_coords_y": 0,
+        "ending_coords_x": 1200,
+        "ending_coords_y": 0,
+        "street": {
+            "name": "Travessa das Leirinhas",
+            "id": 2
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 13,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 1600,
+        "beginning_coords_y": 0,
+        "ending_coords_x": 2000,
+        "ending_coords_y": 0,
+        "street": {
+            "name": "Travessa das Leirinhas",
+            "id": 2
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 14,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 2000,
+        "beginning_coords_y": 0,
+        "ending_coords_x": 1600,
+        "ending_coords_y": 0,
+        "street": {
+            "name": "Travessa das Leirinhas",
+            "id": 2
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 15,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 0,
+        "beginning_coords_y": 0,
+        "ending_coords_x": 0,
+        "ending_coords_y": 400,
+        "street": {
+            "name": "Travessa de Nossa Senhora do Carmo",
+            "id": 3
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 16,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 0,
+        "beginning_coords_y": 400,
+        "ending_coords_x": 0,
+        "ending_coords_y": 0,
+        "street": {
+            "name": "Travessa de Nossa Senhora do Carmo",
+            "id": 3
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 17,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 0,
+        "beginning_coords_y": 400,
+        "ending_coords_x": 0,
+        "ending_coords_y": 800,
+        "street": {
+            "name": "Travessa de Nossa Senhora do Carmo",
+            "id": 3
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 18,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 0,
+        "beginning_coords_y": 800,
+        "ending_coords_x": 0,
+        "ending_coords_y": 400,
+        "street": {
+            "name": "Travessa de Nossa Senhora do Carmo",
+            "id": 3
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 19,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 0,
+        "beginning_coords_y": 800,
+        "ending_coords_x": 0,
+        "ending_coords_y": 1200,
+        "street": {
+            "name": "Travessa de Nossa Senhora do Carmo",
+            "id": 3
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 20,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 0,
+        "beginning_coords_y": 1200,
+        "ending_coords_x": 0,
+        "ending_coords_y": 800,
+        "street": {
+            "name": "Travessa de Nossa Senhora do Carmo",
+            "id": 3
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 21,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 0,
+        "beginning_coords_y": 1200,
+        "ending_coords_x": 0,
+        "ending_coords_y": 1600,
+        "street": {
+            "name": "Travessa de Nossa Senhora do Carmo",
+            "id": 3
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 22,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 0,
+        "beginning_coords_y": 1600,
+        "ending_coords_x": 0,
+        "ending_coords_y": 1200,
+        "street": {
+            "name": "Travessa de Nossa Senhora do Carmo",
+            "id": 3
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 23,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 0,
+        "beginning_coords_y": 1600,
+        "ending_coords_x": 0,
+        "ending_coords_y": 2000,
+        "street": {
+            "name": "Travessa de Nossa Senhora do Carmo",
+            "id": 3
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 24,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 0,
+        "beginning_coords_y": 2000,
+        "ending_coords_x": 0,
+        "ending_coords_y": 1600,
+        "street": {
+            "name": "Travessa de Nossa Senhora do Carmo",
+            "id": 3
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 25,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 250,
+        "beginning_coords_y": 1000,
+        "ending_coords_x": 250,
+        "ending_coords_y": 1250,
+        "street": {
+            "name": "Travessa do Abreu",
+            "id": 4
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 26,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 250,
+        "beginning_coords_y": 1250,
+        "ending_coords_x": 250,
+        "ending_coords_y": 1000,
+        "street": {
+            "name": "Travessa do Abreu",
+            "id": 4
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 27,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 250,
+        "beginning_coords_y": 1250,
+        "ending_coords_x": 250,
+        "ending_coords_y": 1500,
+        "street": {
+            "name": "Travessa do Abreu",
+            "id": 4
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 28,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 250,
+        "beginning_coords_y": 1500,
+        "ending_coords_x": 250,
+        "ending_coords_y": 1250,
+        "street": {
+            "name": "Travessa do Abreu",
+            "id": 4
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 29,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 500,
+        "beginning_coords_y": 0,
+        "ending_coords_x": 500,
+        "ending_coords_y": 375,
+        "street": {
+            "name": "Travessa do Beixeiro",
+            "id": 5
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 30,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 500,
+        "beginning_coords_y": 375,
+        "ending_coords_x": 500,
+        "ending_coords_y": 0,
+        "street": {
+            "name": "Travessa do Beixeiro",
+            "id": 5
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 31,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 500,
+        "beginning_coords_y": 375,
+        "ending_coords_x": 500,
+        "ending_coords_y": 750,
+        "street": {
+            "name": "Travessa do Beixeiro",
+            "id": 5
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 32,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 500,
+        "beginning_coords_y": 750,
+        "ending_coords_x": 500,
+        "ending_coords_y": 375,
+        "street": {
+            "name": "Travessa do Beixeiro",
+            "id": 5
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 33,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 500,
+        "beginning_coords_y": 750,
+        "ending_coords_x": 500,
+        "ending_coords_y": 1125,
+        "street": {
+            "name": "Travessa do Beixeiro",
+            "id": 5
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 34,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 500,
+        "beginning_coords_y": 1125,
+        "ending_coords_x": 500,
+        "ending_coords_y": 750,
+        "street": {
+            "name": "Travessa do Beixeiro",
+            "id": 5
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 35,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 500,
+        "beginning_coords_y": 1125,
+        "ending_coords_x": 500,
+        "ending_coords_y": 1500,
+        "street": {
+            "name": "Travessa do Beixeiro",
+            "id": 5
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 36,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 500,
+        "beginning_coords_y": 1500,
+        "ending_coords_x": 500,
+        "ending_coords_y": 1125,
+        "street": {
+            "name": "Travessa do Beixeiro",
+            "id": 5
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 37,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 750,
+        "beginning_coords_y": 0,
+        "ending_coords_x": 750,
+        "ending_coords_y": 375,
+        "street": {
+            "name": "Travessa do Cabeco",
+            "id": 6
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 38,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 750,
+        "beginning_coords_y": 375,
+        "ending_coords_x": 750,
+        "ending_coords_y": 0,
+        "street": {
+            "name": "Travessa do Cabeco",
+            "id": 6
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 39,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 750,
+        "beginning_coords_y": 375,
+        "ending_coords_x": 750,
+        "ending_coords_y": 750,
+        "street": {
+            "name": "Travessa do Cabeco",
+            "id": 6
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 40,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 750,
+        "beginning_coords_y": 750,
+        "ending_coords_x": 750,
+        "ending_coords_y": 375,
+        "street": {
+            "name": "Travessa do Cabeco",
+            "id": 6
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 41,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 1000,
+        "beginning_coords_y": 500,
+        "ending_coords_x": 1000,
+        "ending_coords_y": 833,
+        "street": {
+            "name": "Travessa do Crasto",
+            "id": 7
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 42,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 1000,
+        "beginning_coords_y": 833,
+        "ending_coords_x": 1000,
+        "ending_coords_y": 500,
+        "street": {
+            "name": "Travessa do Crasto",
+            "id": 7
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 43,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 1000,
+        "beginning_coords_y": 833,
+        "ending_coords_x": 1000,
+        "ending_coords_y": 1166,
+        "street": {
+            "name": "Travessa do Crasto",
+            "id": 7
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 44,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 1000,
+        "beginning_coords_y": 1166,
+        "ending_coords_x": 1000,
+        "ending_coords_y": 833,
+        "street": {
+            "name": "Travessa do Crasto",
+            "id": 7
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 45,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 1000,
+        "beginning_coords_y": 1166,
+        "ending_coords_x": 1000,
+        "ending_coords_y": 1500,
+        "street": {
+            "name": "Travessa do Crasto",
+            "id": 7
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 46,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 1000,
+        "beginning_coords_y": 1500,
+        "ending_coords_x": 1000,
+        "ending_coords_y": 1166,
+        "street": {
+            "name": "Travessa do Crasto",
+            "id": 7
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 47,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 1500,
+        "beginning_coords_y": 0,
+        "ending_coords_x": 1500,
+        "ending_coords_y": 333,
+        "street": {
+            "name": "Travessa do Eucalipto Sul",
+            "id": 8
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 48,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 1500,
+        "beginning_coords_y": 333,
+        "ending_coords_x": 1500,
+        "ending_coords_y": 0,
+        "street": {
+            "name": "Travessa do Eucalipto Sul",
+            "id": 8
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 49,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 1500,
+        "beginning_coords_y": 333,
+        "ending_coords_x": 1500,
+        "ending_coords_y": 666,
+        "street": {
+            "name": "Travessa do Eucalipto Sul",
+            "id": 8
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 50,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 1500,
+        "beginning_coords_y": 666,
+        "ending_coords_x": 1500,
+        "ending_coords_y": 333,
+        "street": {
+            "name": "Travessa do Eucalipto Sul",
+            "id": 8
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 51,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 1500,
+        "beginning_coords_y": 666,
+        "ending_coords_x": 1500,
+        "ending_coords_y": 1000,
+        "street": {
+            "name": "Travessa do Eucalipto Sul",
+            "id": 8
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 52,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 1500,
+        "beginning_coords_y": 1000,
+        "ending_coords_x": 1500,
+        "ending_coords_y": 666,
+        "street": {
+            "name": "Travessa do Eucalipto Sul",
+            "id": 8
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 53,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 2000,
+        "beginning_coords_y": 0,
+        "ending_coords_x": 2000,
+        "ending_coords_y": 375,
+        "street": {
+            "name": "Travessa do Reguinho",
+            "id": 9
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 54,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 2000,
+        "beginning_coords_y": 375,
+        "ending_coords_x": 2000,
+        "ending_coords_y": 0,
+        "street": {
+            "name": "Travessa do Reguinho",
+            "id": 9
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 55,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 2000,
+        "beginning_coords_y": 375,
+        "ending_coords_x": 2000,
+        "ending_coords_y": 750,
+        "street": {
+            "name": "Travessa do Reguinho",
+            "id": 9
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 56,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 2000,
+        "beginning_coords_y": 750,
+        "ending_coords_x": 2000,
+        "ending_coords_y": 375,
+        "street": {
+            "name": "Travessa do Reguinho",
+            "id": 9
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 57,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 2000,
+        "beginning_coords_y": 750,
+        "ending_coords_x": 2000,
+        "ending_coords_y": 1125,
+        "street": {
+            "name": "Travessa do Reguinho",
+            "id": 9
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 58,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 2000,
+        "beginning_coords_y": 1125,
+        "ending_coords_x": 2000,
+        "ending_coords_y": 750,
+        "street": {
+            "name": "Travessa do Reguinho",
+            "id": 9
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 59,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 2000,
+        "beginning_coords_y": 1125,
+        "ending_coords_x": 2000,
+        "ending_coords_y": 1500,
+        "street": {
+            "name": "Travessa do Reguinho",
+            "id": 9
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 60,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 2000,
+        "beginning_coords_y": 1500,
+        "ending_coords_x": 2000,
+        "ending_coords_y": 1125,
+        "street": {
+            "name": "Travessa do Reguinho",
+            "id": 9
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 61,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 1000,
+        "beginning_coords_y": 500,
+        "ending_coords_x": 1333,
+        "ending_coords_y": 500,
+        "street": {
+            "name": "Travessa Professor Julio Catarino",
+            "id": 10
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 62,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 1333,
+        "beginning_coords_y": 500,
+        "ending_coords_x": 1000,
+        "ending_coords_y": 500,
+        "street": {
+            "name": "Travessa Professor Julio Catarino",
+            "id": 10
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 63,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 1333,
+        "beginning_coords_y": 500,
+        "ending_coords_x": 1666,
+        "ending_coords_y": 500,
+        "street": {
+            "name": "Travessa Professor Julio Catarino",
+            "id": 10
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 64,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 1666,
+        "beginning_coords_y": 500,
+        "ending_coords_x": 1333,
+        "ending_coords_y": 500,
+        "street": {
+            "name": "Travessa Professor Julio Catarino",
+            "id": 10
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 65,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 1666,
+        "beginning_coords_y": 500,
+        "ending_coords_x": 2000,
+        "ending_coords_y": 500,
+        "street": {
+            "name": "Travessa Professor Julio Catarino",
+            "id": 10
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 66,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 2000,
+        "beginning_coords_y": 500,
+        "ending_coords_x": 1666,
+        "ending_coords_y": 500,
+        "street": {
+            "name": "Travessa Professor Julio Catarino",
+            "id": 10
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 67,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 750,
+        "beginning_coords_y": 750,
+        "ending_coords_x": 1125,
+        "ending_coords_y": 875,
+        "street": {
+            "name": "Urbanizacao Glicinias Park",
+            "id": 11
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 68,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 1125,
+        "beginning_coords_y": 875,
+        "ending_coords_x": 750,
+        "ending_coords_y": 750,
+        "street": {
+            "name": "Urbanizacao Glicinias Park",
+            "id": 11
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 69,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 1125,
+        "beginning_coords_y": 875,
+        "ending_coords_x": 1500,
+        "ending_coords_y": 1000,
+        "street": {
+            "name": "Urbanizacao Glicinias Park",
+            "id": 11
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 70,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 1500,
+        "beginning_coords_y": 1000,
+        "ending_coords_x": 1125,
+        "ending_coords_y": 875,
+        "street": {
+            "name": "Urbanizacao Glicinias Park",
+            "id": 11
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 71,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 0,
+        "beginning_coords_y": 1000,
+        "ending_coords_x": 250,
+        "ending_coords_y": 1000,
+        "street": {
+            "name": "Viela da Azenha",
+            "id": 12
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 72,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 250,
+        "beginning_coords_y": 1000,
+        "ending_coords_x": 0,
+        "ending_coords_y": 1000,
+        "street": {
+            "name": "Viela da Azenha",
+            "id": 12
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 73,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 250,
+        "beginning_coords_y": 1000,
+        "ending_coords_x": 500,
+        "ending_coords_y": 1000,
+        "street": {
+            "name": "Viela da Azenha",
+            "id": 12
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 74,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 500,
+        "beginning_coords_y": 1000,
+        "ending_coords_x": 250,
+        "ending_coords_y": 1000,
+        "street": {
+            "name": "Viela da Azenha",
+            "id": 12
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 75,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 0,
+        "beginning_coords_y": 1500,
+        "ending_coords_x": 400,
+        "ending_coords_y": 1500,
+        "street": {
+            "name": "Viela da Cardosa",
+            "id": 13
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 76,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 400,
+        "beginning_coords_y": 1500,
+        "ending_coords_x": 0,
+        "ending_coords_y": 1500,
+        "street": {
+            "name": "Viela da Cardosa",
+            "id": 13
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 77,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 400,
+        "beginning_coords_y": 1500,
+        "ending_coords_x": 800,
+        "ending_coords_y": 1500,
+        "street": {
+            "name": "Viela da Cardosa",
+            "id": 13
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 78,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 800,
+        "beginning_coords_y": 1500,
+        "ending_coords_x": 400,
+        "ending_coords_y": 1500,
+        "street": {
+            "name": "Viela da Cardosa",
+            "id": 13
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 79,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 800,
+        "beginning_coords_y": 1500,
+        "ending_coords_x": 1200,
+        "ending_coords_y": 1500,
+        "street": {
+            "name": "Viela da Cardosa",
+            "id": 13
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 80,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 1200,
+        "beginning_coords_y": 1500,
+        "ending_coords_x": 800,
+        "ending_coords_y": 1500,
+        "street": {
+            "name": "Viela da Cardosa",
+            "id": 13
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 81,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 1200,
+        "beginning_coords_y": 1500,
+        "ending_coords_x": 1600,
+        "ending_coords_y": 1500,
+        "street": {
+            "name": "Viela da Cardosa",
+            "id": 13
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 82,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 1600,
+        "beginning_coords_y": 1500,
+        "ending_coords_x": 1200,
+        "ending_coords_y": 1500,
+        "street": {
+            "name": "Viela da Cardosa",
+            "id": 13
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 83,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 1600,
+        "beginning_coords_y": 1500,
+        "ending_coords_x": 2000,
+        "ending_coords_y": 1500,
+        "street": {
+            "name": "Viela da Cardosa",
+            "id": 13
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 84,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 2000,
+        "beginning_coords_y": 1500,
+        "ending_coords_x": 1600,
+        "ending_coords_y": 1500,
+        "street": {
+            "name": "Viela da Cardosa",
+            "id": 13
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 85,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 0,
+        "beginning_coords_y": 2000,
+        "ending_coords_x": 333,
+        "ending_coords_y": 2000,
+        "street": {
+            "name": "Viela da Quinta",
+            "id": 14
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 86,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 333,
+        "beginning_coords_y": 2000,
+        "ending_coords_x": 0,
+        "ending_coords_y": 2000,
+        "street": {
+            "name": "Viela da Quinta",
+            "id": 14
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 87,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 333,
+        "beginning_coords_y": 2000,
+        "ending_coords_x": 666,
+        "ending_coords_y": 2000,
+        "street": {
+            "name": "Viela da Quinta",
+            "id": 14
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 88,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 666,
+        "beginning_coords_y": 2000,
+        "ending_coords_x": 333,
+        "ending_coords_y": 2000,
+        "street": {
+            "name": "Viela da Quinta",
+            "id": 14
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 89,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 666,
+        "beginning_coords_y": 2000,
+        "ending_coords_x": 1000,
+        "ending_coords_y": 2000,
+        "street": {
+            "name": "Viela da Quinta",
+            "id": 14
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 90,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 1000,
+        "beginning_coords_y": 2000,
+        "ending_coords_x": 666,
+        "ending_coords_y": 2000,
+        "street": {
+            "name": "Viela da Quinta",
+            "id": 14
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 91,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 2500,
+        "beginning_coords_y": 500,
+        "ending_coords_x": 2500,
+        "ending_coords_y": 875,
+        "street": {
+            "name": "Viela das Arotas",
+            "id": 15
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 92,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 2500,
+        "beginning_coords_y": 875,
+        "ending_coords_x": 2500,
+        "ending_coords_y": 500,
+        "street": {
+            "name": "Viela das Arotas",
+            "id": 15
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 93,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 2500,
+        "beginning_coords_y": 875,
+        "ending_coords_x": 2500,
+        "ending_coords_y": 1250,
+        "street": {
+            "name": "Viela das Arotas",
+            "id": 15
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 94,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 2500,
+        "beginning_coords_y": 1250,
+        "ending_coords_x": 2500,
+        "ending_coords_y": 875,
+        "street": {
+            "name": "Viela das Arotas",
+            "id": 15
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 95,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 2000,
+        "beginning_coords_y": 500,
+        "ending_coords_x": 2250,
+        "ending_coords_y": 500,
+        "street": {
+            "name": "Avenida Fernando Augusto de Oliveira",
+            "id": 16
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 96,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 2250,
+        "beginning_coords_y": 500,
+        "ending_coords_x": 2000,
+        "ending_coords_y": 500,
+        "street": {
+            "name": "Avenida Fernando Augusto de Oliveira",
+            "id": 16
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 97,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 2250,
+        "beginning_coords_y": 500,
+        "ending_coords_x": 2500,
+        "ending_coords_y": 500,
+        "street": {
+            "name": "Avenida Fernando Augusto de Oliveira",
+            "id": 16
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 98,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 2500,
+        "beginning_coords_y": 500,
+        "ending_coords_x": 2250,
+        "ending_coords_y": 500,
+        "street": {
+            "name": "Avenida Fernando Augusto de Oliveira",
+            "id": 16
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 99,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 2000,
+        "beginning_coords_y": 1250,
+        "ending_coords_x": 2250,
+        "ending_coords_y": 1250,
+        "street": {
+            "name": "Avenida Manuel Alvaro Lopes Pereira",
+            "id": 17
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 100,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 2250,
+        "beginning_coords_y": 1250,
+        "ending_coords_x": 2000,
+        "ending_coords_y": 1250,
+        "street": {
+            "name": "Avenida Manuel Alvaro Lopes Pereira",
+            "id": 17
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 101,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 2250,
+        "beginning_coords_y": 1250,
+        "ending_coords_x": 2500,
+        "ending_coords_y": 1250,
+        "street": {
+            "name": "Avenida Manuel Alvaro Lopes Pereira",
+            "id": 17
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 102,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 2500,
+        "beginning_coords_y": 1250,
+        "ending_coords_x": 2250,
+        "ending_coords_y": 1250,
+        "street": {
+            "name": "Avenida Manuel Alvaro Lopes Pereira",
+            "id": 17
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 103,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 1000,
+        "beginning_coords_y": 2000,
+        "ending_coords_x": 1250,
+        "ending_coords_y": 1750,
+        "street": {
+            "name": "Avenida Vasco Branco",
+            "id": 18
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 104,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 1250,
+        "beginning_coords_y": 1750,
+        "ending_coords_x": 1000,
+        "ending_coords_y": 2000,
+        "street": {
+            "name": "Avenida Vasco Branco",
+            "id": 18
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 105,
+        "number_cars": 0,
+        "actual_direction": true,
+        "n_accident": 0,
+        "beginning_coords_x": 1250,
+        "beginning_coords_y": 1750,
+        "ending_coords_x": 1500,
+        "ending_coords_y": 1500,
+        "street": {
+            "name": "Avenida Vasco Branco",
+            "id": 18
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    },
+    {
+        "id": 106,
+        "number_cars": 0,
+        "actual_direction": false,
+        "n_accident": 0,
+        "beginning_coords_x": 1500,
+        "beginning_coords_y": 1500,
+        "ending_coords_x": 1250,
+        "ending_coords_y": 1750,
+        "street": {
+            "name": "Avenida Vasco Branco",
+            "id": 18
+        },
+        "transit_type": "Normal",
+        "police": false,
+        "visibility": 100
+    }
+]

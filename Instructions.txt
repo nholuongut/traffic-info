@@ -1,0 +1,15 @@
+-Sensors/generateStreets/generateStreets.py USING streetNames.csv
+-saved on very_primordial
+
+-send to DB
+-receive trechos
+
+-Sensor/transformTrechos/helper.py USING received Trechos	//change beginning/ending coords
+-saved on stuff.txt
+
+-Sensor/findConnections/neighbour.py USING stuff.txt
+-saved on neighbours.txt
+
+-rbtMQ receive.py
+-rbtMQ send.py using neighbour.txt
+

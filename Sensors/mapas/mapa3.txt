@@ -1,0 +1,190 @@
+[
+    {
+        "name": "Travessa das Leirinhas",
+        "beginning_coords": [
+            0,
+            0
+        ],
+        "ending_coords": [
+            2000,
+            0
+        ]
+    },
+    {
+        "name": "Travessa de Nossa Senhora do Carmo",
+        "beginning_coords": [
+            0,
+            0
+        ],
+        "ending_coords": [
+            0,
+            2000
+        ]
+    },
+    {
+        "name": "Travessa do Abreu",
+        "beginning_coords": [
+            250,
+            1000
+        ],
+        "ending_coords": [
+            250,
+            1500
+        ]
+    },
+    {
+        "name": "Travessa do Beixeiro",
+        "beginning_coords": [
+            500,
+            0
+        ],
+        "ending_coords": [
+            500,
+            1500
+        ]
+    },
+    {
+        "name": "Travessa do Cabeco",
+        "beginning_coords": [
+            750,
+            0
+        ],
+        "ending_coords": [
+            750,
+            750
+        ]
+    },
+    {
+        "name": "Travessa do Crasto",
+        "beginning_coords": [
+            1000,
+            500
+        ],
+        "ending_coords": [
+            1000,
+            1500
+        ]
+    },
+    {
+        "name": "Travessa do Eucalipto Sul",
+        "beginning_coords": [
+            1500,
+            0
+        ],
+        "ending_coords": [
+            1500,
+            1000
+        ]
+    },
+    {
+        "name": "Travessa do Reguinho",
+        "beginning_coords": [
+            2000,
+            0
+        ],
+        "ending_coords": [
+            2000,
+            1500
+        ]
+    },
+    {
+        "name": "Travessa Professor Julio Catarino",
+        "beginning_coords": [
+            1000,
+            500
+        ],
+        "ending_coords": [
+            2000,
+            500
+        ]
+    },
+    {
+        "name": "Urbanizacao Glicinias Park",
+        "beginning_coords": [
+            750,
+            750
+        ],
+        "ending_coords": [
+            1500,
+            1000
+        ]
+    },
+    {
+        "name": "Viela da Azenha",
+        "beginning_coords": [
+            0,
+            1000
+        ],
+        "ending_coords": [
+            500,
+            1000
+        ]
+    },
+    {
+        "name": "Viela da Cardosa",
+        "beginning_coords": [
+            0,
+            1500
+        ],
+        "ending_coords": [
+            2000,
+            1500
+        ]
+    },
+    {
+        "name": "Viela da Quinta",
+        "beginning_coords": [
+            0,
+            2000
+        ],
+        "ending_coords": [
+            1000,
+            2000
+        ]
+    },
+    {
+        "name": "Avenida Vasco Branco",
+        "beginning_coords": [
+            1000,
+            2000
+        ],
+        "ending_coords": [
+            1500,
+            1500
+        ]
+    },
+
+    {
+        "name": "Viela das Arotas",
+        "beginning_coords": [
+            2500,
+            500
+        ],
+        "ending_coords": [
+            2500,
+            1250
+        ]
+    },
+    {
+        "name": "Avenida Fernando Augusto de Oliveira",
+        "beginning_coords": [
+            2000,
+            500
+        ],
+        "ending_coords": [
+            2500,
+            500
+        ]
+    },
+    {
+        "name": "Avenida Manuel Alvaro Lopes Pereira",
+        "beginning_coords": [
+            2000,
+            1250
+        ],
+        "ending_coords": [
+            2500,
+            1250
+        ]
+    }
+]

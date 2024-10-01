@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Rua Tenente Joaquim Lopes Craveiro",
+        "beginning_coords": [
+            0,
+            0
+        ],
+        "ending_coords": [
+            0,
+            2000
+        ]
+    },
+    {
+        "name": "Rua de Caveiros",
+        "beginning_coords": [
+            500,
+            0
+        ],
+        "ending_coords": [
+            500,
+            2000
+        ]
+    },
+    {
+        "name": "Rua Romana",
+        "beginning_coords": [
+            1000,
+            0
+        ],
+        "ending_coords": [
+            1000,
+            2000
+        ]
+    },
+    {
+        "name": "Travessa da Agoncida",
+        "beginning_coords": [
+            1500,
+            0
+        ],
+        "ending_coords": [
+            1500,
+            2000
+        ]
+    },
+    {
+        "name": "Avenida Antonio Henriques",
+        "beginning_coords": [
+            2000,
+            0
+        ],
+        "ending_coords": [
+            2000,
+            2000
+        ]
+    },
+    {
+        "name": "Avenida Benjamim Araujo",
+        "beginning_coords": [
+            0,
+            0
+        ],
+        "ending_coords": [
+            2000,
+            0
+        ]
+    },
+    {
+        "name": "Avenida da Liberdade",
+        "beginning_coords": [
+            0,
+            500
+        ],
+        "ending_coords": [
+            2000,
+            500
+        ]
+    },
+    {
+        "name": "Avenida da Misericordia",
+        "beginning_coords": [
+            0,
+            1000
+        ],
+        "ending_coords": [
+            2000,
+            1000
+        ]
+    },
+    {
+        "name": "Avenida do Brasil",
+        "beginning_coords": [
+            0,
+            1500
+        ],
+        "ending_coords": [
+            2000,
+            1500
+        ]
+    },
+    {
+        "name": "Avenida do Vale",
+        "beginning_coords": [
+            0,
+            2000
+        ],
+        "ending_coords": [
+            2000,
+            2000
+        ]
+    }
+]
